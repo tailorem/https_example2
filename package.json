@@ -1,0 +1,14 @@
+{
+  "name": "https_requests2",
+  "version": "1.0.0",
+  "description": "Making HTTP requests using the request HTTP client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
